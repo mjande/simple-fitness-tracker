@@ -1,0 +1,13 @@
+Workout:
+  - Date: date
+  - Has many exercises
+
+Weight Exercise:
+  - Type: string
+  - Sets: integer
+  - Reps: integer
+
+Cardio Exercise
+  - Type: string
+  - Time: Time
+  - Distance: Float
